@@ -1,0 +1,38 @@
+.header-font {
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fd1506;
+  }
+  .fa-facebook{
+      color:#3b5998;
+  }
+  .fa-linkedin{
+      color:#0077B5;
+  }
+  .fa-twitter{
+      color:#4099FF;
+  }
+  .fa-google{
+      color:#d34836;
+  }
+  .bg-primary {
+   background-color: #000 !important;
+  }
+  
+  
+
+  body {
+    margin: 100px 100px 75px 100px;
+    background-color: #74c1ee;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+    }
+
+
+
+p {
+    border-style: double;
+}
+.jumbotron {
+    background-image: url("https://i.pinimg.com/originals/3f/a0/40/3fa040b186dbfc221b96b62c7083c03b.jpg");
+    background-size: cover;
+  }
